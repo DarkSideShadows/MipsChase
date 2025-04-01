@@ -1,8 +1,8 @@
 # MipsChase
-Assignment for CS596 - Game State Machines
+**Assignment for CS596 - Game State Machines**
 
-Inspired by [this video](https://www.youtube.com/watch?v=Q2D1xoGjviU) 
-Based on [MipsChase repo](https://github.com/Prof-Chris/MipsChase)
+Inspired by [this video](https://www.youtube.com/watch?v=Q2D1xoGjviU)  
+Based on [MipsChase repo](https://github.com/Prof-Chris/MipsChase)  
 
 ### Demo Video
 [![Watch the video](https://www.youtube.com/watch?v=pvuPb3OyqA8)](https://www.youtube.com/watch?v=pvuPb3OyqA8)
